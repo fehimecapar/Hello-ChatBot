@@ -1,0 +1,957 @@
+{
+  "B2Words": [
+    {
+      "Word": "Abandon",
+      "Meaning": "Terk etmek, bırakmak",
+      "Sentence": "They were forced to abandon the car."
+    },
+    {
+      "Word": "Abolish",
+      "Meaning": "Ortadan kaldırmak, iptal etmek",
+      "Sentence": "Therefore, I suggest you should not change or abolish any event for any reason."
+    },
+    {
+      "Word": "Abstract",
+      "Meaning": "Soyut, teorik",
+      "Sentence": "Truth and beauty are abstract concepts."
+    },
+    {
+      "Word": "Abuse",
+      "Meaning": "Taciz, suistimal",
+      "Sentence": "The rescued dogs had been victims of physical abuse."
+    },
+    {
+      "Word": "Acquire",
+      "Meaning": "Elde etmek, kazanmak",
+      "Sentence": "I seem to have acquired two copies of this book."
+    },
+    {
+      "Word": "Adapt",
+      "Meaning": "Adapte olmak, uyarlamak",
+      "Sentence": "It takes time to adapt to a new working environment."
+    },
+    {
+      "Word": "Addict",
+      "Meaning": "Bağımlı, tiryaki",
+      "Sentence": "I'm a chocolate addict."
+    },
+    {
+      "Word": "Addition",
+      "Meaning": "Ek, ilave",
+      "Sentence": "Defender Matt Smith is the latest addition to the team."
+    },
+    {
+      "Word": "Adequate",
+      "Meaning": "Yeterli, uygun",
+      "Sentence": "I didn't have adequate time to prepare."
+    },
+    {
+      "Word": "Adjustment",
+      "Meaning": "Ayarlama, düzeltme",
+      "Sentence": "I have a few minor adjustments to make."
+    },
+    {
+      "Word": "Adopt",
+      "Meaning": "Evlat edinmek, benimsemek",
+      "Sentence": "They've adopted a baby girl."
+    },
+    {
+      "Word": "Agriculture",
+      "Meaning": "Tarım, ziraat",
+      "Sentence": "The area depends on agriculture for most of its income."
+    },
+    {
+      "Word": "Alter",
+      "Meaning": "Değişmek, değiştirmek",
+      "Sentence": "We've had to alter some of our plans."
+    },
+    {
+      "Word": "Approval",
+      "Meaning": "Onay, onaylama",
+      "Sentence": "He showed his approval by smiling broadly."
+    },
+    {
+      "Word": "Approximate",
+      "Meaning": "Yaklaşık, benzer",
+      "Sentence": "The train's approximate time of arrival is 10.30."
+    },
+    {
+      "Word": "Arrogant",
+      "Meaning": "Kibirli, küstah",
+      "Sentence": "I found him arrogant and rude."
+    },
+    {
+      "Word": "Artificial",
+      "Meaning": "Yapay, suni",
+      "Sentence": "I'm an artificial chat bot :)"
+    },
+    {
+      "Word": "Aspect",
+      "Meaning": "Bölüm, yön",
+      "Sentence": "Which aspects of the job do you most enjoy?"
+    },
+    {
+      "Word": "Assess",
+      "Meaning": "Değerlendirmek, belirlemek",
+      "Sentence": "We need to assess whether the project is worth doing."
+    },
+    {
+      "Word": "Associate",
+      "Meaning": "Orta, üye, dost",
+      "Sentence": "There are many risks associated with smoking."
+    },
+    {
+      "Word": "Assume",
+      "Meaning": "Varsaymak, üstlenmek",
+      "Sentence": "I assumed (that) you knew each other."
+    },
+    {
+      "Word": "Assure",
+      "Meaning": "Temin etmek, sağlamak",
+      "Sentence": "She assured him (that) the car would be ready the next day."
+    },
+    {
+      "Word": "Astonished",
+      "Meaning": "Şaşırmış, afallamış",
+      "Sentence": "I was astonished to see Miriam there."
+    },
+    {
+      "Word": "Aware",
+      "Meaning": "Farkında, haberdar",
+      "Sentence": "Were you aware of the risks at the time?"
+    },
+    {
+      "Word": "Awkward",
+      "Meaning": "Garip, tuhaf",
+      "Sentence": "Some of the questions were rather awkward."
+    },
+    {
+      "Word": "Balance",
+      "Meaning": "Dengelemek, dengede tutmak",
+      "Sentence": "I lost my balance and fell off the bike."
+    },
+    {
+      "Word": "Bare",
+      "Meaning": "Çıplak, örtülmemiş",
+      "Sentence": "There's no carpet in the room, just bare floorboards."
+    },
+    {
+      "Word": "Basis",
+      "Meaning": "Temel, esas, sıklık",
+      "Sentence": "Meetings are held on a weekly basis."
+    },
+    {
+      "Word": "Betray",
+      "Meaning": "İhanet etmek, açığa vurmak",
+      "Sentence": "He promised never to betray her."
+    },
+    {
+      "Word": "Bizarre",
+      "Meaning": "Tuhaf, garip, acayip",
+      "Sentence": "A bizarre situation."
+    },
+    {
+      "Word": "Bother",
+      "Meaning": "Zahmet, sıkıntı, dert",
+      "Sentence": "It bothers me that he doesn't seem to notice."
+    },
+    {
+      "Word": "Bound",
+      "Meaning": "Zorunlu, mecbur",
+      "Sentence": "You're bound to feel nervous before your driving test."
+    },
+    {
+      "Word": "Breed",
+      "Meaning": "Doğurmak, cins, nesil",
+      "Sentence": "We can keep animals, breed them, observe, and protect."
+    },
+    {
+      "Word": "Bullet",
+      "Meaning": "Mermi, kurşun",
+      "Sentence": "A bullet had lodged in the boy's leg."
+    },
+    {
+      "Word": "Burst",
+      "Meaning": "Patlamak, patlak vermek",
+      "Sentence": "If I eat any more cake I'll burst!"
+    },
+    {
+      "Word": "Candidate",
+      "Meaning": "Aday",
+      "Sentence": "There are three candidates standing in the election."
+    },
+    {
+      "Word": "Cardigan",
+      "Meaning": "Hırka",
+      "Sentence": "I lost my favourite pink cardigan."
+    },
+    {
+      "Word": "Citizen",
+      "Meaning": "Vatandaş, yurttaş",
+      "Sentence": "He applied to become an American citizen."
+    },
+    {
+      "Word": "Claim",
+      "Meaning": "İddia, talep",
+      "Sentence": "Bicycle supporters claim that it is silent and keeps owners fit."
+    },
+    {
+      "Word": "Coincidence",
+      "Meaning": "Tesadüf, rastlantı",
+      "Sentence": "It was pure coincidence that we met."
+    },
+    {
+      "Word": "Collapse",
+      "Meaning": "Çökme, yıkılma",
+      "Sentence": "The chair collapsed under her weight."
+    },
+    {
+      "Word": "Combine",
+      "Meaning": "Birleştirmek, kaynaştırmak",
+      "Sentence": "The band combines jazz rhythms and romantic lyrics."
+    },
+    {
+      "Word": "Command",
+      "Meaning": "Buyurmak, komut, emretmek",
+      "Sentence": "When I give the command, fire!"
+    },
+    {
+      "Word": "Commit",
+      "Meaning": "İşlemek, suç işlemek",
+      "Sentence": "To commit suicide."
+    },
+    {
+      "Word": "Compulsory",
+      "Meaning": "Zorunlu, mecburi",
+      "Sentence": "Swimming was compulsory at my school."
+    },
+    {
+      "Word": "Conduct",
+      "Meaning": "Yönetmek, idare etmek",
+      "Sentence": "The experiments were conducted by scientists in New York."
+    },
+    {
+      "Word": "Conflict",
+      "Meaning": "Fikir ayrılığı, anlaşmazlık",
+      "Sentence": "There was a lot of conflict between the two parties."
+    },
+    {
+      "Word": "Conscious",
+      "Meaning": "Bilinçli, farkında",
+      "Sentence": "The tooth doesn't exactly hurt, but I'm conscious of it all the time."
+    },
+    {
+      "Word": "Consequence",
+      "Meaning": "Sonuç, netice",
+      "Sentence": "Excessive drinking can have serious consequences for a person's health."
+    },
+    {
+      "Word": "Constant",
+      "Meaning": "Sabit, sürekli, değişmez",
+      "Sentence": "He's in constant trouble with the police."
+    },
+    {
+      "Word": "Construct",
+      "Meaning": "İnşa etmek, kurmak",
+      "Sentence": "The building was constructed in 1930."
+    },
+    {
+      "Word": "Consume",
+      "Meaning": "Tüketmek, harcamak",
+      "Sentence": "People generally consume far too much sugar."
+    },
+    {
+      "Word": "Contrary",
+      "Meaning": "Aksine, karşıt",
+      "Sentence": "You're a vegetarian, aren't you?\" \"On the contrary, I love meat.\""
+    },
+    {
+      "Word": "Convert",
+      "Meaning": "Dönüştürmek, değiştirmek",
+      "Sentence": "Could we convert the small bedroom into a second bathroom?"
+    },
+    {
+      "Word": "Correspond",
+      "Meaning": "Karşılık, benzemek",
+      "Sentence": "The American FBI corresponds to the British MI5."
+    },
+    {
+      "Word": "Crucial",
+      "Meaning": "Önemli, kritik",
+      "Sentence": "Her work has been crucial to the project's success."
+    },
+    {
+      "Word": "Dare",
+      "Meaning": "Cesaret, cesaret etmek",
+      "Sentence": "I didn't dare tell Dad that I'd scratched his car."
+    },
+    {
+      "Word": "Deal",
+      "Meaning": "Anlaşma, pazarlık",
+      "Sentence": "A business deal."
+    },
+    {
+      "Word": "Debate",
+      "Meaning": "Tartışma, müzakere",
+      "Sentence": "Education is the current focus of public debate."
+    },
+    {
+      "Word": "Debt",
+      "Meaning": "Borç, borçlu olma",
+      "Sentence": "He managed to pay off his debts in two years."
+    },
+    {
+      "Word": "Decay",
+      "Meaning": "Çürüme, bozulma",
+      "Sentence": "Sugar makes your teeth decay."
+    },
+    {
+      "Word": "Deliberate",
+      "Meaning": "Kasten, kasıtlı, planlı",
+      "Sentence": "This was a deliberate attempt to mislead us."
+    },
+    {
+      "Word": "Delicate",
+      "Meaning": "Narin, hassas, nazik",
+      "Sentence": "She liked his delicate skin and his body's warmth."
+    },
+    {
+      "Word": "Deliver",
+      "Meaning": "Vermek, teslim etmek, iletmek",
+      "Sentence": "Then, he delivered a speech to the public."
+    },
+    {
+      "Word": "Demolish",
+      "Meaning": "Yıkmak, tahrip etmek",
+      "Sentence": "A number of houses were demolished so that the supermarket could be built."
+    },
+    {
+      "Word": "Demonstrate",
+      "Meaning": "Göstermek, kanıtlamak, ispatlamak",
+      "Sentence": "These problems demonstrate the importance of strategic planning."
+    },
+    {
+      "Word": "Deny",
+      "Meaning": "Reddetmek, yalanlamak",
+      "Sentence": "We cannot deny that technology has changed our lives."
+    },
+    {
+      "Word": "Deprive",
+      "Meaning": "Mahrum etmek, yoksun bırakmak",
+      "Sentence": "He claimed that he had been deprived of his freedom/rights."
+    },
+    {
+      "Word": "Descent",
+      "Meaning": "İniş, alçalma",
+      "Sentence": "The path descended steeply into the valley."
+    },
+    {
+      "Word": "Despair",
+      "Meaning": "Umutsuzluk, çaresizlik",
+      "Sentence": "A mood/sense of despair."
+    },
+    {
+      "Word": "Devote",
+      "Meaning": "Adamak, ayırmak",
+      "Sentence": "He resigned from his job to devote more time to his family."
+    },
+    {
+      "Word": "Dilemma",
+      "Meaning": "İkilem, çıkmaz",
+      "Sentence": "She faces the dilemma of disobeying her father or losing the man she loves."
+    },
+    {
+      "Word": "Dimension",
+      "Meaning": "Boyut, ölçü",
+      "Sentence": "Music has added a new dimension to my life."
+    },
+    {
+      "Word": "Disappear",
+      "Meaning": "Kaybolmak, ortadan kaybolmak",
+      "Sentence": "This is a way of life that is fast disappearing."
+    },
+    {
+      "Word": "Disapprove",
+      "Meaning": "Onaylamamak, reddetmek, beğenmemek",
+      "Sentence": "I strongly disapprove of under-age drinking."
+    },
+    {
+      "Word": "Disaster",
+      "Meaning": "Felaket, yıkım, facia",
+      "Sentence": "This is one of the worst natural disasters ever to hit the area."
+    },
+    {
+      "Word": "Disguise",
+      "Meaning": "Kılık değiştirme, gizlemek",
+      "Sentence": "She usually goes out in disguise to avoid being bothered by the public."
+    },
+    {
+      "Word": "Display",
+      "Meaning": "Göstermek, sergilemek, ekran",
+      "Sentence": "A firework display."
+    },
+    {
+      "Word": "Disposal",
+      "Meaning": "Bertaraf, yok etme",
+      "Sentence": "Waste disposal."
+    },
+    {
+      "Word": "Disrupt",
+      "Meaning": "Bozmak, parçalamak, yarmak",
+      "Sentence": "A heavy fall of snow had disrupted the city's transport system."
+    },
+    {
+      "Word": "Distinction",
+      "Meaning": "Ayrım, fark, üstünlük",
+      "Sentence": "The distinction between spoken and written language."
+    },
+    {
+      "Word": "Distinguish",
+      "Meaning": "Ayırmak, ayırt etmek",
+      "Sentence": "I sometimes have difficulty distinguishing Spanish from Portuguese."
+    },
+    {
+      "Word": "Distract",
+      "Meaning": "Dikkatini dağıtmak, şaşırtmak",
+      "Sentence": "Don't distract her from her studies."
+    },
+    {
+      "Word": "Diverse",
+      "Meaning": "Çeşitli, farklı, değişik",
+      "Sentence": "New York is a very culturally/ethnically diverse city."
+    },
+    {
+      "Word": "Eager",
+      "Meaning": "İstekli, hevesli",
+      "Sentence": "She sounded very eager to meet you."
+    },
+    {
+      "Word": "Emerge",
+      "Meaning": "Ortaya çıkmak, doğmak",
+      "Sentence": "She emerged from the sea, blue with cold."
+    },
+    {
+      "Word": "Endangered",
+      "Meaning": "Nesli tükenmekte",
+      "Sentence": "Tigers are now an endangered species."
+    },
+    {
+      "Word": "Endure",
+      "Meaning": "Katlanmak, dayanmak",
+      "Sentence": "We had to endure a nine-hour delay at the airport."
+    },
+    {
+      "Word": "Ensure",
+      "Meaning": "Sağlamak, garantiye almak",
+      "Sentence": "Please ensure that all examination papers have your name at the top."
+    },
+    {
+      "Word": "Envy",
+      "Meaning": "İmrenme, gıpta",
+      "Sentence": "I really envy you, Pete."
+    },
+    {
+      "Word": "Establish",
+      "Meaning": "Kurmak, belirlemek",
+      "Sentence": "The brewery was established in 1822."
+    },
+    {
+      "Word": "Estimate",
+      "Meaning": "Tahmin, değerlendirme",
+      "Sentence": "They estimate that the journey will take at least two weeks."
+    },
+    {
+      "Word": "Evidence",
+      "Meaning": "Kanıt, delil",
+      "Sentence": "Evidence of global warming."
+    },
+    {
+      "Word": "Examine",
+      "Meaning": "İncelemek, sınamak",
+      "Sentence": "She picked up the knife and examined it closely."
+    },
+    {
+      "Word": "Expand",
+      "Meaning": "Genişletmek, büyütmek",
+      "Sentence": "The air in the balloon expands when heated."
+    },
+    {
+      "Word": "Expect",
+      "Meaning": "Beklemek, ummak, ümit etmek",
+      "Sentence": "You will be expected to work some weekends."
+    },
+    {
+      "Word": "Exploit",
+      "Meaning": "İstismar etmek, sömürmek",
+      "Sentence": "Laws exist to stop companies exploiting their employees."
+    },
+    {
+      "Word": "Expose",
+      "Meaning": "Ortaya çıkarmak, açığa çıkarmak",
+      "Sentence": "The newspaper story exposed him as a liar."
+    },
+    {
+      "Word": "Extend",
+      "Meaning": "Uzatmak, genişletmek",
+      "Sentence": "We have plans to extend our house."
+    },
+    {
+      "Word": "Fade",
+      "Meaning": "Solmak, yavaşça kaybolmak",
+      "Sentence": "The music began to fade."
+    },
+    {
+      "Word": "Faint",
+      "Meaning": "Baygın, sönük, zayıf",
+      "Sentence": "She gave me a faint smile."
+    },
+    {
+      "Word": "Fatal",
+      "Meaning": "Ölümcül, kaçınılmaz",
+      "Sentence": "This illness is fatal in almost all cases."
+    },
+    {
+      "Word": "Gambling",
+      "Meaning": "Kumar",
+      "Sentence": "Gambling can be addictive."
+    },
+    {
+      "Word": "Gradual",
+      "Meaning": "Kademeli, aşamalı, derece derece",
+      "Sentence": "There was a gradual rise in 1992."
+    },
+    {
+      "Word": "Harm",
+      "Meaning": "Zarar, hasar, kötülük",
+      "Sentence": "Smoking can cause serious harm to the lungs."
+    },
+    {
+      "Word": "Hesitate",
+      "Meaning": "Tereddüt etmek, duraksamak",
+      "Sentence": "Richard hesitated before answering."
+    },
+    {
+      "Word": "Identical",
+      "Meaning": "Özdeş, aynı, eş",
+      "Sentence": "I've got three identical blue suits."
+    },
+    {
+      "Word": "Ignore",
+      "Meaning": "Gözardı etmek, aldırmamak",
+      "Sentence": "I smiled at her but she just ignored me."
+    },
+    {
+      "Word": "Immediate",
+      "Meaning": "Hemen, acil, derhal",
+      "Sentence": "We must make an immediate response."
+    },
+    {
+      "Word": "Immoral",
+      "Meaning": "Ahlaksız, terbiyesiz",
+      "Sentence": "Immoral behaviour."
+    },
+    {
+      "Word": "Impact",
+      "Meaning": "Etki, darbe",
+      "Sentence": "It would make a serious impact on my life."
+    },
+    {
+      "Word": "Implement",
+      "Meaning": "Uygulamak, yerine getirmek",
+      "Sentence": "The changes to the national health system will be implemented next year."
+    },
+    {
+      "Word": "Impress",
+      "Meaning": "Etkilemek, baskı yapmak",
+      "Sentence": "He tried to impress me with his extensive knowledge."
+    },
+    {
+      "Word": "Incident",
+      "Meaning": "Olay, kaza, hadise",
+      "Sentence": "An unfortunate incident."
+    },
+    {
+      "Word": "Inconvenient",
+      "Meaning": "Uygunsuz, rahatsız edici, sakıncalı",
+      "Sentence": "I'm sorry, I seem to have called at an inconvenient time."
+    },
+    {
+      "Word": "Indicate",
+      "Meaning": "Belirtmek, göstermek",
+      "Sentence": "Please indicate which free gift you would like to receive."
+    },
+    {
+      "Word": "Ingredient",
+      "Meaning": "Bileşen, içerik, unsur, etken",
+      "Sentence": "Trust is an essential ingredient in a successful marriage."
+    },
+    {
+      "Word": "Insult",
+      "Meaning": "Hakaret, aşağılama, hor görme",
+      "Sentence": "They were shouting insults at each other."
+    },
+    {
+      "Word": "Invade",
+      "Meaning": "İstila etmek, saldırmak",
+      "Sentence": "Hitler invaded France."
+    },
+    {
+      "Word": "Invent",
+      "Meaning": "İcat etmek, uydurmak",
+      "Sentence": "But I didn't invent the story - everything I told you is true."
+    },
+    {
+      "Word": "Invest",
+      "Meaning": "Yatırım, yatırmak",
+      "Sentence": "The institute will invest 5 million in the project."
+    },
+    {
+      "Word": "Investigate",
+      "Meaning": "İncelemek, araştırmak",
+      "Sentence": "We are of course investigating how an error like this could have occurred."
+    },
+    {
+      "Word": "Investment",
+      "Meaning": "Yatırım, para yatırma",
+      "Sentence": "The account requires a minimum investment of $1000."
+    },
+    {
+      "Word": "Involve",
+      "Meaning": "Dahil etmek, karıştırmak",
+      "Sentence": "I prefer teaching methods that actively involve students in learning."
+    },
+    {
+      "Word": "Irritated",
+      "Meaning": "Rahatsız olmak, tedirgin",
+      "Sentence": "Tom noticed that she was irritated about something."
+    },
+    {
+      "Word": "Jaw",
+      "Meaning": "Çene",
+      "Sentence": "He has a strong/square jaw."
+    },
+    {
+      "Word": "Justice",
+      "Meaning": "Adalet, yargı, hak",
+      "Sentence": "There's no justice in the world when people can be made to suffer like that."
+    },
+    {
+      "Word": "Justify",
+      "Meaning": "Haklı çıkarmak, haklı göstermek",
+      "Sentence": "I can't really justify taking another day off work."
+    },
+    {
+      "Word": "Largely",
+      "Meaning": "Büyük oranda, genellikle",
+      "Sentence": "Their complaints have been largely ignored."
+    },
+    {
+      "Word": "Legal",
+      "Meaning": "Yasal, hukuki, resmi",
+      "Sentence": "Your legal rights."
+    },
+    {
+      "Word": "Liberty",
+      "Meaning": "Özgürlük, hürriyet",
+      "Sentence": "Hundreds of political prisoners are to be given their liberty."
+    },
+    {
+      "Word": "Loyal",
+      "Meaning": "Sadık, vefalı",
+      "Sentence": "She's very loyal to her friends."
+    },
+    {
+      "Word": "Maintain",
+      "Meaning": "Sürdürmek, korumak",
+      "Sentence": "We have standards to maintain."
+    },
+    {
+      "Word": "Manner",
+      "Meaning": "Tavır, tutum, davranış",
+      "Sentence": "She stared at me in an accusing manner."
+    },
+    {
+      "Word": "Matter",
+      "Meaning": "Önemli olmak, mesele",
+      "Sentence": "It's a matter of some importance."
+    },
+    {
+      "Word": "Measure",
+      "Meaning": "Ölçü, ölçmek, tartmak",
+      "Sentence": "He measured the flour into the bowl."
+    },
+    {
+      "Word": "Merely",
+      "Meaning": "Sadece, sırf",
+      "Sentence": "I wasn't complaining, I merely said that I was tired."
+    },
+    {
+      "Word": "Misleading",
+      "Meaning": "Yanıltıcı, göz boyayıcı",
+      "Sentence": "Misleading information/statements."
+    },
+    {
+      "Word": "Mumble",
+      "Meaning": "Mırıltı, geveleme",
+      "Sentence": "He mumbled something about it being a waste of time."
+    },
+    {
+      "Word": "Nuisance",
+      "Meaning": "Sıkıntı, rahatsızlık, dert, bela",
+      "Sentence": "I've forgotten my umbrella - what a nuisance!"
+    },
+    {
+      "Word": "Obey",
+      "Meaning": "İtaat etmek, dinlemek",
+      "Sentence": "They must obey the rules of international law."
+    },
+    {
+      "Word": "Obligation",
+      "Meaning": "Yükümlülük, zorunluluk",
+      "Sentence": "If you have not signed a contract, you are under no obligation to pay them any money."
+    },
+    {
+      "Word": "Observation",
+      "Meaning": "Gözlem, gözetim",
+      "Sentence": "She has very good powers of observation."
+    },
+    {
+      "Word": "Obsessed",
+      "Meaning": "Takıntılı, kafayı takmış",
+      "Sentence": "To be obsessed with money/work."
+    },
+    {
+      "Word": "Obtain",
+      "Meaning": "Elde etmek, sağlamak",
+      "Sentence": "First editions of these books are now almost impossible to obtain."
+    },
+    {
+      "Word": "Occupy",
+      "Meaning": "İşgal etmek, tutmak, meşgul etmek",
+      "Sentence": "All the seats were occupied."
+    },
+    {
+      "Word": "Occur",
+      "Meaning": "Meydana gelmek, oluşmak",
+      "Sentence": "If any of these symptoms occur while you are taking the medicine, consult your doctor\nimmediately."
+    },
+    {
+      "Word": "Offend",
+      "Meaning": "Gücendirmek, kırmak, incitmek",
+      "Sentence": "I think she was a bit offended."
+    },
+    {
+      "Word": "Oppose",
+      "Meaning": "Karşı çıkmak, muhalefet etmek",
+      "Sentence": "They both opposed the plan."
+    },
+    {
+      "Word": "Pace",
+      "Meaning": "Hız, adım, yürüyüş",
+      "Sentence": "I don't like the pace of modern life."
+    },
+    {
+      "Word": "Poverty",
+      "Meaning": "Yoksulluk, fakirlik, sefalet",
+      "Sentence": "Two million people in the city live in poverty."
+    },
+    {
+      "Word": "Precise",
+      "Meaning": "Kesin, tam, kusursuz",
+      "Sentence": "He caught me at the precise moment that I fainted."
+    },
+    {
+      "Word": "Prejudice",
+      "Meaning": "Önyargı, zarar, peşin hüküm",
+      "Sentence": "Laws against racial prejudice must be strictly enforced."
+    },
+    {
+      "Word": "Preserve",
+      "Meaning": "Muhafaza etmek, korumak",
+      "Sentence": "To preserve the environment."
+    },
+    {
+      "Word": "Pressure",
+      "Meaning": "Basınç, baskı, zorlama",
+      "Sentence": "Teachers are under pressure to work longer hours."
+    },
+    {
+      "Word": "Presumably",
+      "Meaning": "Muhtemelen, harhalde, büyük ihtimalle",
+      "Sentence": "Presumably he just forgot to send the letter."
+    },
+    {
+      "Word": "Pretend",
+      "Meaning": "Numara yapmak, yalandan yapmak",
+      "Sentence": "She's not really hurt - she's only pretending."
+    },
+    {
+      "Word": "Prohibit",
+      "Meaning": "Yasaklamak, önlemek, engel olmak",
+      "Sentence": "Motor vehicles are prohibited from driving in the town centre."
+    },
+    {
+      "Word": "Prompt",
+      "Meaning": "Hemen, çabuk",
+      "Sentence": "His prompt action certainly saved my life."
+    },
+    {
+      "Word": "Quarrel",
+      "Meaning": "Kavga, tartışma, anlaşmazlık",
+      "Sentence": "She had a quarrel with her neighbour."
+    },
+    {
+      "Word": "Rage",
+      "Meaning": "Öfke, hiddet",
+      "Sentence": "My main feeling was one of rage."
+    },
+    {
+      "Word": "Rear",
+      "Meaning": "Arka, arka taraf",
+      "Sentence": "There's a sticker on the rear door/window."
+    },
+    {
+      "Word": "Reckon",
+      "Meaning": "Hesaba katmak, hesap etmek",
+      "Sentence": "I reckon he's going to leave."
+    },
+    {
+      "Word": "Redundant",
+      "Meaning": "Gereksiz, lüzumsuz, işten çıkarılmış",
+      "Sentence": "Half the workforce has been made redundant because of the decline in sales."
+    },
+    {
+      "Word": "Reflect",
+      "Meaning": "Yansıtmak, düşünmek",
+      "Sentence": "He saw himself reflected in the shop window."
+    },
+    {
+      "Word": "Reject",
+      "Meaning": "Reddetmek, geri çevirmek, kabul etmemek",
+      "Sentence": "The United States government rejected the proposal."
+    },
+    {
+      "Word": "Related",
+      "Meaning": "İlişkili, ilişkin",
+      "Sentence": "We discussed unemployment and related issues."
+    },
+    {
+      "Word": "Remedy",
+      "Meaning": "Çare, ilaç, çözüm, deva",
+      "Sentence": "An effective herbal remedy for headaches."
+    },
+    {
+      "Word": "Reputation",
+      "Meaning": "İtibar, ün, şöhret",
+      "Sentence": "The company has a worldwide reputation for quality."
+    },
+    {
+      "Word": "Resist",
+      "Meaning": "Direnmek, karşı koymak",
+      "Sentence": "I can't resist chocolate."
+    },
+    {
+      "Word": "Reveal",
+      "Meaning": "Ortaya çıkartmak, açığa vurmak",
+      "Sentence": "He was jailed for revealing secrets to the Russians."
+    },
+    {
+      "Word": "Ridiculous",
+      "Meaning": "Saçma, gülünç, komik",
+      "Sentence": "I've never heard anything so ridiculous."
+    },
+    {
+      "Word": "Seize",
+      "Meaning": "Kapmak, ele geçirmek",
+      "Sentence": "I seized his arm and made him turn to look at me."
+    },
+    {
+      "Word": "Severe",
+      "Meaning": "Şiddetli, ağır, sert",
+      "Sentence": "This is a school for children with severe learning difficulties."
+    },
+    {
+      "Word": "Simultaneously",
+      "Meaning": "Eşzamanlı, aynı anda",
+      "Sentence": "Two children answered the teacher's question simultaneously."
+    },
+    {
+      "Word": "Stain",
+      "Meaning": "Leke",
+      "Sentence": "A blood/grass stain."
+    },
+    {
+      "Word": "Starving",
+      "Meaning": "Açlıktan ölmek, çok aç",
+      "Sentence": "I'm absolutely starving."
+    },
+    {
+      "Word": "Sufficient",
+      "Meaning": "Yeterli, kafi",
+      "Sentence": "This recipe should be sufficient for five people."
+    },
+    {
+      "Word": "Supply",
+      "Meaning": "Arz, tedarik",
+      "Sentence": "Our food supplies were running out."
+    },
+    {
+      "Word": "Suspect",
+      "Meaning": "Şüpheli, zanlı, kuşkulu",
+      "Sentence": "I suspect she won't come - she's very busy."
+    },
+    {
+      "Word": "Suspend",
+      "Meaning": "Askıya almak, uzaklaştırmak",
+      "Sentence": "She was suspended from school for fighting."
+    },
+    {
+      "Word": "Suspicious",
+      "Meaning": "Şüpheli, şüphelenen",
+      "Sentence": "His wife became suspicious after finding blood in their car."
+    },
+    {
+      "Word": "Temptation",
+      "Meaning": "Aayrtma, günaha girme",
+      "Sentence": "In these situations, there is a huge temptation to lie."
+    },
+    {
+      "Word": "Tend",
+      "Meaning": "Bakmak, yönelmek, yatkın olmak",
+      "Sentence": "I tend to wear dark colours."
+    },
+    {
+      "Word": "Unique",
+      "Meaning": "Benzersiz, eşsiz, biricik",
+      "Sentence": "Everyone's fingerprints are unique."
+    },
+    {
+      "Word": "Valid",
+      "Meaning": "Geçerli, yürürlükte",
+      "Sentence": "A valid excuse/reason."
+    },
+    {
+      "Word": "Vanish",
+      "Meaning": "Kaybolmak, gözden kaybolmak",
+      "Sentence": "The sun vanished behind the clouds."
+    },
+    {
+      "Word": "Vivid",
+      "Meaning": "Canlı, parlak, hayat dolu",
+      "Sentence": "She has a very vivid imagination."
+    },
+    {
+      "Word": "Yawn",
+      "Meaning": "Esnemek",
+      "Sentence": "I can't stop yawning - I must be tired."
+    }
+  ]
+
+
+
+
+
+
+
+
+}

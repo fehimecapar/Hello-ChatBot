@@ -1,0 +1,514 @@
+{
+  "C2Words": [
+    {
+      "Word": "Able",
+      "Meaning": "Yapabilme, gücü yetme",
+      "Sentence": "She's a very able student."
+    },
+    {
+      "Word": "Abrupt",
+      "Meaning": "Ani, beklenmedik",
+      "Sentence": "Our conversation came to an abrupt end."
+    },
+    {
+      "Word": "Accord",
+      "Meaning": "Anlaşma",
+      "Sentence": "She left of her own accord."
+    },
+    {
+      "Word": "Adolescent",
+      "Meaning": "Ergen, genç",
+      "Sentence": "Many adolescents are secretive."
+    },
+    {
+      "Word": "Adverse",
+      "Meaning": "Ters, zıt, aksi",
+      "Sentence": "Adverse weather conditions."
+    },
+    {
+      "Word": "Advocate",
+      "Meaning": "Savunucu, yandaş, avukat",
+      "Sentence": "I certainly wouldn't advocate the use of violence."
+    },
+    {
+      "Word": "Aim",
+      "Meaning": "Amaç, hedef, plan",
+      "Sentence": "A plan aimed at reducing traffic."
+    },
+    {
+      "Word": "Albeit",
+      "Meaning": "Gerçi, karşın",
+      "Sentence": "He tried, albeit without success."
+    },
+    {
+      "Word": "Alert",
+      "Meaning": "Uyarmak, alarma geçirmek",
+      "Sentence": "Six hours later she still wasn't home so they alerted the police."
+    },
+    {
+      "Word": "Ally",
+      "Meaning": "Müttefik, dost",
+      "Sentence": "During World War One, Turkey and Germany were allies."
+    },
+    {
+      "Word": "Ambiguity",
+      "Meaning": "Belirsizlik, anlam belirsizliği",
+      "Sentence": "Legal documents must be free of ambiguity."
+    },
+    {
+      "Word": "Amend",
+      "Meaning": "Düzeltmek, değiştirmek",
+      "Sentence": "The contract has now been amended."
+    },
+    {
+      "Word": "Analogous",
+      "Meaning": "Benzer, benzeşen",
+      "Sentence": "It's often said that life is analogous to a journey."
+    },
+    {
+      "Word": "Arbitrary",
+      "Meaning": "Keyfi, isteğe bağlı",
+      "Sentence": "An arbitrary decision."
+    },
+    {
+      "Word": "Aspire",
+      "Meaning": "Çok istemek, can atmak",
+      "Sentence": "He has never aspired to a position of power."
+    },
+    {
+      "Word": "Assault",
+      "Meaning": "Saldırı, hücum",
+      "Sentence": "He was assaulted by a youth who cannot be named."
+    },
+    {
+      "Word": "Assemble",
+      "Meaning": "Birleşmek, toplanmak",
+      "Sentence": "They assembled in the meeting room after lunch."
+    },
+    {
+      "Word": "Attribute",
+      "Meaning": "Nitelik, özellik",
+      "Sentence": "Her hair is her best attribute."
+    },
+    {
+      "Word": "bandwagon",
+      "Meaning": "çoğunluk arabası",
+      "Sentence": "Jane and Tiffany decided to jump on the bandwagon and started to take off their clothes.\n"
+    },
+    {
+      "Word": "beat ",
+      "Meaning": "yenmek, dövmek, vurmak",
+      "Sentence": "You can't beat Pedro's for a great pizza"
+    },
+    {
+      "Word": "belief",
+      "Meaning": "inanç, inanış, iman",
+      "Sentence": "The evil of this man is beyond belief."
+    },
+    {
+      "Word": "benefit",
+      "Meaning": "yarar, fayda",
+      "Sentence": "She says her train was late, so I suppose we'd better give her the benefit of the doubt."
+    },
+    {
+      "Word": "bias",
+      "Meaning": "önyargı, eğilim, sapma",
+      "Sentence": "The news channel has been accused of bias in favour of the government."
+    },
+    {
+      "Word": "bounce",
+      "Meaning": "sıçrama, zıplama, sekme",
+      "Sentence": "I tried to send you an email, but it bounced back."
+    },
+    {
+      "Word": "burial",
+      "Meaning": "cenaze töreni, defin",
+      "Sentence": "After his burial, I would receive a book where all kinds of items were made explicit to me.."
+    },
+    {
+      "Word": "calf",
+      "Meaning": "buzağı, dana",
+      "Sentence": "I pulled a muscle in my calf."
+    },
+    {
+      "Word": "casserole",
+      "Meaning": "güveç",
+      "Sentence": "a beef casserole."
+    },
+    {
+      "Word": "certainty",
+      "Meaning": "kesinlik",
+      "Sentence": "There are no absolute certainties in life."
+    },
+    {
+      "Word": "chill ",
+      "Meaning": "soğuk, buz gibi, üşütücü",
+      "Sentence": "A chill went down my spine."
+    },
+    {
+      "Word": "coherent ",
+      "Meaning": "tutarlı, uyumlu",
+      "Sentence": "We need to put forward a coherent plan."
+    },
+    {
+      "Word": "crawl ",
+      "Meaning": "yavaş ilerleme, emeklemek, sürünmek",
+      "Sentence": "The kitchen's crawling with ants."
+    },
+    {
+      "Word": "decay",
+      "Meaning": "çürüme, bozulma",
+      "Sentence": "Many of the buildings had fallen into decay."
+    },
+    {
+      "Word": "disguise ",
+      "Meaning": "kılık değiştirmek, gizlenmek",
+      "Sentence": "She started as [a] secretary, carefully disguising her talent and energy, just to land the job."
+    },
+    {
+      "Word": "dole ",
+      "Meaning": "işsizlik parası, yoksulluk yardımı",
+      "Sentence": "But still, doling out money does not make the people that receive it happy."
+    },
+    {
+      "Word": "elaborate",
+      "Meaning": "ayrıntılı, özenli, dikkatle hazırlanmış",
+      "Sentence": "A nurse was standing nearby, adjusting an intravenous vial suspended by an elaborate array of tubes."
+    },
+    {
+      "Word": "elusive",
+      "Meaning": "zor, yakalanması zor, anlaşılmaz, güvenilmez",
+      "Sentence": "Nowadays, the picture of a clean environment seems to be an elusive goal moving ever further from us."
+    },
+    {
+      "Word": "engrossed",
+      "Meaning": "dalmış, dalgın, meşgul",
+      "Sentence": "He was so engrossed in what he was doing that he didn't hear the bell."
+    },
+    {
+      "Word": "eradicate ",
+      "Meaning": "kökünü kurutmak, yok etmek",
+      "Sentence": "The government claims to be doing all it can to eradicate corruption."
+    },
+    {
+      "Word": "extent",
+      "Meaning": "kapsam, boyut, derece",
+      "Sentence": "Her hair is her best attribute."
+    },
+    {
+      "Word": "faint ",
+      "Meaning": "baygın,baygınlık, bayılma",
+      "Sentence": "I haven't the faintest idea what you're talking about."
+    },
+    {
+      "Word": "fearless",
+      "Meaning": "korkusuz, cesur, pervasız",
+      "Sentence": "It is something which associates [i]n my mind with extreme, fearless guys who tend to live on the edge of life, always searching for new strong feelings and a dose of adrenaline."
+    },
+    {
+      "Word": "finite ",
+      "Meaning": "sonlu, sınırlı, ölçülebilir",
+      "Sentence": "We only have a finite amount of time to complete this task."
+    },
+    {
+      "Word": "flair",
+      "Meaning": "yetenek, kabiliyet",
+      "Sentence": "When we turned it on, it burst into flames and before we could exti[n]guish it, the fire destroyed my desk."
+    },
+    {
+      "Word": "foremost ",
+      "Meaning": "en başta, önde gelen, en önemli",
+      "Sentence": "He's one of the country's foremost experts on military law."
+    },
+    {
+      "Word": "fulfilment ",
+      "Meaning": "yerine getimrk, tamamlamak, yapmak",
+      "Sentence": "I hope that you'll find happiness and fulfilment in your life together."
+    },
+    {
+      "Word": "gang",
+      "Meaning": "çete",
+      "Sentence": "A whole gang of us decided to go on an excursion, as we did once a month."
+    },
+    {
+      "Word": "giggle ",
+      "Meaning": "kıkırdamak",
+      "Sentence": "She started giggling and couldn't stop."
+    },
+    {
+      "Word": "grim ",
+      "Meaning": "acımasız, korkunç, gaddar",
+      "Sentence": "The future looks grim."
+    },
+    {
+      "Word": "harshly",
+      "Meaning": "sertçe",
+      "Sentence": "I thought she'd been treated rather harshly."
+    },
+    {
+      "Word": "heritage",
+      "Meaning": "miras",
+      "Sentence": "We have already created a list of possible destinations with rich cultural heritage"
+    },
+    {
+      "Word": "horrifying",
+      "Meaning": "korkunç, korkutmak, dehşete düşürmek",
+      "Sentence": "Evading his unknown captors he is faced with a horrifying proposition."
+    },
+    {
+      "Word": "ignorant",
+      "Meaning": "bilgisiz, cahil, habersiz, bilmez",
+      "Sentence": "He was a newcomer to Formula One and ignorant of many of the circuits."
+    },
+    {
+      "Word": "immature",
+      "Meaning": "olgunlaşmamış, ham",
+      "Sentence": "You might regard me as an immature, seventeen-year-old girl for I like decorating my diary."
+    },
+    {
+      "Word": "imply",
+      "Meaning": "ima etmek, anlamına gelmek",
+      "Sentence": "I am not implying that the other options will not be to our advantage but I think that this one is what we really need."
+    },
+    {
+      "Word": "innate",
+      "Meaning": "doğuştan, doğal",
+      "Sentence": "His innate ability to act as a motivator for other people has helped him obtain excellent leadership skills."
+    },
+    {
+      "Word": "intensely",
+      "Meaning": "yoğun bir şekilde",
+      "Sentence": "She caressed the frame with great tenderness and, after looking intensely at the picture, embraced it passionately."
+    },
+    {
+      "Word": "judge",
+      "Meaning": "hakim, yargıç, yargılamak",
+      "Sentence": "She is a very good judge of character and the institute has reared some very promising scientists"
+    },
+    {
+      "Word": "kidney",
+      "Meaning": "böbrek, ciğer",
+      "Sentence": "Her kidneys didn't work well enough to keep her healthy and someone had to be found who could give one of his kidneys to her."
+    },
+    {
+      "Word": "labour",
+      "Meaning": "işgücü, emek, çalışma",
+      "Sentence": "He prefers to paint the house himself - it's a real labour of love"
+    },
+    {
+      "Word": "landmark ",
+      "Meaning": "dönüm noktası",
+      "Sentence": "His speech was a landmark in the history of civil rights."
+    },
+    {
+      "Word": "lavish",
+      "Meaning": "savurgan, müsrif",
+      "Sentence": "Wilbur arrived later, too late for the compulsory martini but still on time for the lavish meal of 7 courses."
+    },
+    {
+      "Word": "liable,",
+      "Meaning": "sorumlu, yükümlü, mesul",
+      "Sentence": "Her hair is her best attribute."
+    },
+    {
+      "Word": "literate",
+      "Meaning": "okur yazar, okumuş",
+      "Sentence": "He was barely literate"
+    },
+    {
+      "Word": "loom ",
+      "Meaning": "tezgah, dokuma tezgahı",
+      "Sentence": "Situated in the heart of Salford's concrete slum, the old soap factory loomed before him."
+    },
+    {
+      "Word": "malicious",
+      "Meaning": "kötü niyetli, kötücül, hain, fena",
+      "Sentence": "If malicious teasing is tolerated, the whole school will be affected in a negative way and nobody will feel safe and self-confident."
+    },
+    {
+      "Word": "massacre",
+      "Meaning": "katliam, kılıçtan geçirme",
+      "Sentence": "It was mostly used for military purposes, thus provoking huge disasters and massacres."
+    },
+    {
+      "Word": "mediocre ",
+      "Meaning": "vasat,n orta, sıradan",
+      "Sentence": "In Hungary, the sports facilities provided are quite mediocre."
+    },
+    {
+      "Word": "muddle",
+      "Meaning": "karıştırmak, karışıklık, şaşkınlık",
+      "Sentence": "Dad got into a muddle over the plans for Christmas"
+    },
+    {
+      "Word": "narrator",
+      "Meaning": "dış ses, anlatan",
+      "Sentence": "Leo Colston is the narrator and chief character through whose eyes we dive into the story."
+    },
+    {
+      "Word": "nest ",
+      "Meaning": "yuva, kuluçka, yuva yapmak",
+      "Sentence": "The very rare 'Cove Owl' has chosen one of the empty tree trunks by the pond to build his nest."
+    },
+    {
+      "Word": "nostril ",
+      "Meaning": "burun deliği",
+      "Sentence": "Breathe in through one nostril."
+    },
+    {
+      "Word": "obsessive",
+      "Meaning": "takıntılı, saplantı haline gelmiş",
+      "Sentence": "Nevertheless attention must be paid to the fact that being influenced by other people's personality can lead to obsessive behaviour."
+    },
+    {
+      "Word": "omission",
+      "Meaning": "ihmal, atlama",
+      "Sentence": "There are some serious errors and omissions in the book."
+    },
+    {
+      "Word": "orientation",
+      "Meaning": "oryantasyon",
+      "Sentence": "He's very secretive about his political orientation."
+    },
+    {
+      "Word": "paramount ",
+      "Meaning": "üstün, olağanüstü, yüce",
+      "Sentence": "Communication is of paramount importance. "
+    },
+    {
+      "Word": "patch ",
+      "Meaning": "yama, paça, yamalamak",
+      "Sentence": "All my senses were sharpened, I could clearly see the tired smile of the bass-guitarist and wet patches on his T-shirt"
+    },
+    {
+      "Word": "persist",
+      "Meaning": "ısrar etmek, sürdürmek, inat etmek",
+      "Sentence": "If symptoms persist, consult a doctor."
+    },
+    {
+      "Word": "plea",
+      "Meaning": "savunma, mazeret, talep, bahane",
+      "Sentence": "'I promise, I'll never ever do it again' she nodded her head to emphasise the seriousness of her\nplea."
+    },
+    {
+      "Word": "plunge",
+      "Meaning": "dalma, dalış",
+      "Sentence": "The car came off the road and plunged down the hillside."
+    },
+    {
+      "Word": "quantity",
+      "Meaning": "miktar, nicelik, sayı",
+      "Sentence": "The road conditions in that area are a bit of an unknown quantity."
+    },
+    {
+      "Word": "racist",
+      "Meaning": "ırkçı",
+      "Sentence": "That's something we should keep in mind, the next time you meet a racist."
+    },
+    {
+      "Word": "reassurance",
+      "Meaning": "güvence",
+      "Sentence": "I very much like being around people and need the reassurance of being well liked."
+    },
+    {
+      "Word": "redundant ",
+      "Meaning": "gereksiz, lüzumsuz, ihtiyaç fazlası",
+      "Sentence": "Mass production, chasing profit wherever it is possible, makes oldish traditions redundant."
+    },
+    {
+      "Word": "riot",
+      "Meaning": "iyan, ayaklanma",
+      "Sentence": "Jim's rose garden is a riot of colour"
+    },
+    {
+      "Word": "rub",
+      "Meaning": "ovmak, ovalamak, masaj yapmak",
+      "Sentence": "Her hair is her best attribute."
+    },
+    {
+      "Word": "sail ",
+      "Meaning": "yelken, yelkenler",
+      "Sentence": "Our boat has a yellow sail."
+    },
+    {
+      "Word": "sentiment",
+      "Meaning": "duygusallık, duyarlılık, hassaslık, his",
+      "Sentence": "We would discuss for hours on end, arguing most of the times, and never express our true inner sentiments."
+    },
+    {
+      "Word": "shelter ",
+      "Meaning": "barınak, sığınak",
+      "Sentence": "They went under a tree to shelter from the rain."
+    },
+    {
+      "Word": "target",
+      "Meaning": "hedef, amaç",
+      "Sentence": "Children aren't really our target market"
+    },
+    {
+      "Word": "tenant",
+      "Meaning": "kiracı, kiralayan",
+      "Sentence": "I have tenants in my flat at the moment."
+    },
+    {
+      "Word": "territory ",
+      "Meaning": "bölge, toprak, ülke",
+      "Sentence": "With this project we'll be moving into unknown territory."
+    },
+    {
+      "Word": "thrill ",
+      "Meaning": "heyecan, titreme, heyecan verici şey",
+      "Sentence": "The creative process is what thrills me."
+    },
+    {
+      "Word": "unattainable",
+      "Meaning": "ulaşılmaz, erişilmez, elde edilemez",
+      "Sentence": "Some economists think that full employment in Europe is an unattainable goal"
+    },
+    {
+      "Word": "uncertain",
+      "Meaning": "belirsiz, şüpheli, kesin olmayan",
+      "Sentence": "I told him to go away in no uncertain terms."
+    },
+    {
+      "Word": "utter",
+      "Meaning": "söylemek, dile getimek, ifade etmek",
+      "Sentence": "To act otherwise would be, in my opinion, utter nonsense."
+    },
+    {
+      "Word": "vaccination",
+      "Meaning": "aşılama, aşı, aşı yapmak",
+      "Sentence": "All the children are given a meningitis vaccination."
+    },
+    {
+      "Word": "vandalism",
+      "Meaning": "barbarlık, yıkıcılık",
+      "Sentence": "There has been more vandalism in the town centre recently."
+    },
+    {
+      "Word": "view",
+      "Meaning": "görünüm, bakış, görmek, bakmak",
+      "Sentence": "Her hair is her best attribute."
+    },
+    {
+      "Word": "vocation",
+      "Meaning": "meslek, çağrı, yetenek, uğraşı",
+      "Sentence": "He knew that teaching was his true vocation."
+    },
+    {
+      "Word": "warehouse",
+      "Meaning": "depo, ambar",
+      "Sentence": "We have several thousand of the books in our warehouse."
+    },
+    {
+      "Word": "xenophobia",
+      "Meaning": "yabancı düşmalığı",
+      "Sentence": "They accused her of xenophobia."
+    },
+    {
+      "Word": "yield ",
+      "Meaning": "verim, getiri, ürün, vermek, ürün vermek, sağlamak",
+      "Sentence": "It is to be hoped that my suggestion will be implemented and will yield immediate results.\n"
+    }
+  ]
+}

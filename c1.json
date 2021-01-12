@@ -1,0 +1,557 @@
+{
+  "C1Words": [
+    {
+      "Word": "Accelerate",
+      "Meaning": "Hızlandırmak, çabuklaştırmak",
+      "Sentence": "Inflation is likely to accelerate this year."
+    },
+    {
+      "Word": "Acclaimed",
+      "Meaning": "Beğeni toplamak",
+      "Sentence": "The acclaimed singer and songwriter."
+    },
+    {
+      "Word": "Accomplish",
+      "Meaning": "Başarmak, yerine getirmek",
+      "Sentence": "I feel as if I've accomplished nothing all day."
+    },
+    {
+      "Word": "Accumulate",
+      "Meaning": "Biriktirmek, toplamak",
+      "Sentence": "The chemicals accumulate in your body."
+    },
+    {
+      "Word": "Accusation",
+      "Meaning": "Suçlama, itham",
+      "Sentence": "He made a number of accusations against his former colleagues."
+    },
+    {
+      "Word": "Acquaintance",
+      "Meaning": "Tanıdık, tanışma",
+      "Sentence": "He's just a business acquaintance."
+    },
+    {
+      "Word": "Allegation",
+      "Meaning": "İddia, sav",
+      "Sentence": "He denied allegations that he had cheated."
+    },
+    {
+      "Word": "Alleged",
+      "Meaning": "İddia edilen, sözde",
+      "Sentence": "An alleged attack."
+    },
+    {
+      "Word": "Appalling",
+      "Meaning": "Korkunç, dehşet verici",
+      "Sentence": "The film was absolutely appalling!"
+    },
+    {
+      "Word": "Apparent",
+      "Meaning": "Bariz, belli",
+      "Sentence": "I was a little surprised by her apparent lack of interest."
+    },
+    {
+      "Word": "Appeal",
+      "Meaning": "Temyiz, başvuru",
+      "Sentence": "They're launching an appeal to raise money for famine victims."
+    },
+    {
+      "Word": "Assert",
+      "Meaning": "İddia etmek, savunmak",
+      "Sentence": "He asserts that she stole money from him."
+    },
+    {
+      "Word": "Attain",
+      "Meaning": "Ulaşmak, elde etmek, kazanmak",
+      "Sentence": "She's attained a high level of fitness."
+    },
+    {
+      "Word": "Auction",
+      "Meaning": "Açık artırma",
+      "Sentence": "The furniture was sold at auction."
+    },
+    {
+      "Word": "bankrupt",
+      "Meaning": "iflas etti",
+      "Sentence": "He went bankrupt after only a year in business."
+    },
+    {
+      "Word": "basis",
+      "Meaning": "temel,esas",
+      "Sentence": "There is no scientific basis for these claims."
+    },
+    {
+      "Word": "beat",
+      "Meaning": "dövmek",
+      "Sentence": "Being at the youth club beats sitting at home."
+    },
+    {
+      "Word": "beware",
+      "Meaning": "dikkat",
+      "Sentence": "You should beware of spending too long in the sun."
+    },
+    {
+      "Word": "biased ",
+      "Meaning": "önyargılı",
+      "Sentence": "to be biased against/towards younger workers"
+    },
+    {
+      "Word": "bilingual ",
+      "Meaning": "bilingual , iki dil bilen",
+      "Sentence": "The staff also seem reluctant to help travellers with their children and it would help if the staff were bilingual."
+    },
+    {
+      "Word": "blind ",
+      "Meaning": "kör",
+      "Sentence": "Nevertheless, we can't turn a blind eye to this reality."
+    }
+    ,
+    {
+      "Word": "bounce ",
+      "Meaning": "sıçrama, zıplama, sekme",
+      "Sentence": "Stock prices bounced back after a steep plunge earlier this week."
+    }
+    ,
+    {
+      "Word": "bound",
+      "Meaning": "ciltli, bağlı, zorunlu, mecbur",
+      "Sentence": "The mountains mark the boundary between the two countries."
+    }
+    ,
+    {
+      "Word": "cancellation  ",
+      "Meaning": "iptal, fesih, silme",
+      "Sentence": "a last-minute cancellation"
+    },
+    {
+      "Word": "capture ",
+      "Meaning": "ele geçirmek",
+      "Sentence": "The Moon landing captured the attention of the whole world."
+    },
+    {
+      "Word": "carriage ",
+      "Meaning": "taşıma, araba, vagon",
+      "Sentence": "The front carriage of the train is for first-class passengers only."
+    },
+    {
+      "Word": "changeable  ",
+      "Meaning": "değiştirilebilir",
+      "Sentence": "I must say that summers here are a bit mild and changeable"
+    },
+    {
+      "Word": "chilly ",
+      "Meaning": "soğuk, serin",
+      "Sentence": "Apart from everything mentioned, the worst thing was the fact that our coach broke down in the middle of nowhere on a chilly rainy day."
+    },
+    {
+      "Word": "civilization",
+      "Meaning": "medeniyet",
+      "Sentence": "Even if this idea is idealistic, some think that they will take advantage of all the benefits of modern civilization."
+    },
+    {
+      "Word": "clarify ",
+      "Meaning": "netleştirmek",
+      "Sentence": "Could you clarify this situation for me, please?\n"
+    },
+    {
+      "Word": "clutch ",
+      "Meaning": "el çantası",
+      "Sentence": "I put my foot on the clutch."
+    },
+    {
+      "Word": "competent ",
+      "Meaning": "kapsamlı",
+      "Sentence": "As the game develops, the creatures and tasks get more and more complicated and by the end of the game, you will be expected to become a competent shooter."
+    },
+    {
+      "Word": "comprehensive  ",
+      "Meaning": "dirsek, destek, köşebant",
+      "Sentence": "Presentations on making a career in media, finance and IT could have been more comprehensive."
+    },
+    {
+      "Word": "dawn",
+      "Meaning": "şafak, şafak vakti, tan",
+      "Sentence": "Presentations on making a career in media, finance and IT could have been more comprehensive."
+    },
+    {
+      "Word": "debut",
+      "Meaning": "başlangıç",
+      "Sentence": "Pavarotti's grand debut took place in the Royal Theatre of Reggio Emilia."
+    },
+    {
+      "Word": "dedicate ",
+      "Meaning": "adamak, ithaf etmek",
+      "Sentence": "She has dedicated her life to helping others.\n"
+    },
+    {
+      "Word": "delicate ",
+      "Meaning": "narin, hassas",
+      "Sentence": "Repairing damaged nerves is a very delicate operation"
+    },
+    {
+      "Word": "diminish",
+      "Meaning": "azaltmak",
+      "Sentence": "Your pain should diminish gradually after taking these tablets."
+    },
+    {
+      "Word": "disapproval ",
+      "Meaning": "onaylamama",
+      "Sentence": "I am writing to express my disapproval of the deplorable service experienced in your museum."
+    },
+    {
+      "Word": "downside ",
+      "Meaning": "dezavanataj",
+      "Sentence": "The downside of living in a city is all the pollution."
+    },
+    {
+      "Word": "drastically",
+      "Meaning": "şiddetle",
+      "Sentence": "Conditions have changed drastically after the reunification."
+    },
+    {
+      "Word": "edible",
+      "Meaning": "yenilebilir, yemeklik",
+      "Sentence": "Part of your journey can be made through the forests where you can pick up some edible berries and wild mushrooms but"
+    },
+    {
+      "Word": "eligible",
+      "Meaning": "uygun, geçerli",
+      "Sentence": "You might be eligible for a grant for your studies."
+    },
+    {
+      "Word": "embrace",
+      "Meaning": "kucaklama",
+      "Sentence": "They seem to have embraced the new deal symbolising freedom"
+    },
+    {
+      "Word": "enhance",
+      "Meaning": "geliştirmek, yükseltmek",
+      "Sentence": "In addition, enhancing the reputation of the family might be anoth[e]r factor as well."
+    },
+    {
+      "Word": "foresee ",
+      "Meaning": "önceden görmek, ileriyi görmek",
+      "Sentence": "Our duty is to foresee any complication before it appears."
+    },
+    {
+      "Word": "forthcoming",
+      "Meaning": "önümüzdeki, yakında çıkacak, gelecek, yaklaşan",
+      "Sentence": "He insisted that no more money would be forthcoming"
+    },
+    {
+      "Word": "fulfil",
+      "Meaning": "yerine getirmek, karşılamak, tamamlamak",
+      "Sentence": "Therefore, she fulfils her duties carefully and precisely."
+    },
+    {
+      "Word": "gain",
+      "Meaning": "kazanç, yarar, yükselme",
+      "Sentence": "Side effects of the drugs may include tiredness, headaches or weight gain."
+    },
+    {
+      "Word": "glamour",
+      "Meaning": "sihir, cazibe, büyücülük",
+      "Sentence": "The red carpet, the glamour, the glitter, the fame are things we all dream about at one point or another [in] our lives."
+    },
+    {
+      "Word": "glory",
+      "Meaning": "zafer, şan, şeref",
+      "Sentence": "It was my idea, but she got all the glory."
+    },
+    {
+      "Word": "grace",
+      "Meaning": "zerafet, incelik",
+      "Sentence": "She moved with grace and elegance."
+    },
+    {
+      "Word": "guideline",
+      "Meaning": "yönerge",
+      "Sentence": "To avoid being injured, you must follow all the guidelines provided by your employer"
+    },
+    {
+      "Word": "hatred",
+      "Meaning": "kin, nefret",
+      "Sentence": "The motive for this shocking attack seems to be racial hatred."
+    },
+    {
+      "Word": "humorous",
+      "Meaning": "nükteli, komik",
+      "Sentence": "To be more specific, the articles will include events taken from our college life, written in a humorous, chatty way"
+    },
+    {
+      "Word": "immediate",
+      "Meaning": "hemen, acil",
+      "Sentence": "In the first place, there are beautiful landscapes in the immediate vicinity of both hotels."
+    },
+    {
+      "Word": "inappropriate",
+      "Meaning": "uygunsuz, yersiz, uymaz",
+      "Sentence": "It would be inappropriate for me to comment, without knowing the facts"
+    },
+    {
+      "Word": "inevitably",
+      "Meaning": "kaçınılmaz olarak",
+      "Sentence": "Their arguments inevitably end in tears."
+    },
+    {
+      "Word": "inferior",
+      "Meaning": "kalitesiz, değersiz, aşağı",
+      "Sentence": "Young girls often feel inferior to boys in the same class."
+    },
+    {
+      "Word": "injustice",
+      "Meaning": "adaletsizlik, haksızlık",
+      "Sentence": "the injustices of the legal system"
+    },
+    {
+      "Word": "irritate ",
+      "Meaning": "kızdırmak",
+      "Sentence": "Children get hyperactive and irritate other passengers."
+    },
+    {
+      "Word": "jealousy",
+      "Meaning": "kıskançlık, haset",
+      "Sentence": "He broke his brother's new bike in a fit of jealousy."
+    },
+    {
+      "Word": "juvenile ",
+      "Meaning": "çocuk, genç",
+      "Sentence": "Among many aspects of crime, researchers have been keenly studying juvenile crime."
+    },
+    {
+      "Word": "keen",
+      "Meaning": "keskin, istekli düşkün",
+      "Sentence": "a keen sense of smell."
+    },
+    {
+      "Word": "knob",
+      "Meaning": "topuz, tokmak, yumru",
+      "Sentence": "Turn the black knob to switch on the radio"
+    },
+    {
+      "Word": "ladder",
+      "Meaning": "merdiven, basamak",
+      "Sentence": "He moved rapidly up the corporate ladder."
+    },
+    {
+      "Word": "lawn",
+      "Meaning": "çim",
+      "Sentence": "Will you mow the lawn at the weekend?"
+    },
+    {
+      "Word": "liability",
+      "Meaning": "yükümlülük",
+      "Sentence": "Conditions have changed drastically after the reunification."
+    },
+    {
+      "Word": "liberty",
+      "Meaning": "özgürlük",
+      "Sentence": "I took the liberty of booking theatre seats for us"
+    },
+    {
+      "Word": "magnificently",
+      "Meaning": "muhteşem",
+      "Sentence": "I thought she coped magnificently"
+    },
+    {
+      "Word": "merit",
+      "Meaning": "hak, değer",
+      "Sentence": "Nevertheless, everything has its own merits."
+    },
+    {
+      "Word": "migration",
+      "Meaning": "göç, göçmenlik",
+      "Sentence": "There is also migration, people from little villages in the interior migrate to the coast."
+    },
+    {
+      "Word": "mingle",
+      "Meaning": "karışmak, karıştırmak",
+      "Sentence": "The party will be a good opportunity to mingle with the other students."
+    },
+    {
+      "Word": "minority",
+      "Meaning": "azınlık",
+      "Sentence": "The novel reveals very clearly to the reader how minorities are exploited and scorned by society."
+    },
+    {
+      "Word": "municipal ",
+      "Meaning": "belediy, belediyeye ait",
+      "Sentence": "municipal tennis courts"
+    },
+    {
+      "Word": "neatly",
+      "Meaning": "düzgün şekilde",
+      "Sentence": "The performers are all neatly dressed."
+    },
+    {
+      "Word": "network ",
+      "Meaning": "ağ",
+      "Sentence": "It is quite easy to build a network of friends worldwide when travelling abroad."
+    },
+    {
+      "Word": "nutshell",
+      "Meaning": "özet",
+      "Sentence": "To put it in a nutshell, they all provide good food at reasonable prices."
+    },
+    {
+      "Word": "obligatory",
+      "Meaning": "zorunlu",
+      "Sentence": "obligatory military service"
+    },
+    {
+      "Word": "omit",
+      "Meaning": "çıkarmak, atlamak, ihmal etmek",
+      "Sentence": "She omitted to mention where she was going"
+    },
+    {
+      "Word": "otherwise ",
+      "Meaning": "aksi takdirde",
+      "Sentence": "I'll meet you there at 6 o'clock, unless I hear otherwise"
+    },
+    {
+      "Word": "outlook ",
+      "Meaning": "görünüm",
+      "Sentence": "The outlook for all three companies is bright over the next 5 years."
+    },
+    {
+      "Word": "participant",
+      "Meaning": "katılımcı",
+      "Sentence": "I was one of the participants who helped a charity organization to raise money for the local hospital."
+    },
+    {
+      "Word": "particular",
+      "Meaning": "belirli",
+      "Sentence": "Teenagers are very particular about the clothes they'll wear."
+    },
+    {
+      "Word": "pastry",
+      "Meaning": "hamur işi",
+      "Sentence": "I made some pastry for the pie"
+    },
+    {
+      "Word": "plunge",
+      "Meaning": "dalma, dalış",
+      "Sentence": "Temperatures plunged below zero."
+    },
+    {
+      "Word": "precisely",
+      "Meaning": "tam, kesin olarak, kesinlikle",
+      "Sentence": "It's not the shape I dislike, it's the colour."
+    },
+    {
+      "Word": "presume",
+      "Meaning": "tahmin etmek, varsaymak",
+      "Sentence": "I presume the students are keen on doing some exercise or even competitive sports."
+    },
+    {
+      "Word": "qualification ",
+      "Meaning": "vasıf, nitelik",
+      "Sentence": "England's qualification for the World Cup."
+    },
+    {
+      "Word": "rarity ",
+      "Meaning": "enderlik, az bulunmak",
+      "Sentence": "Hot meals were a rarity."
+    },
+    {
+      "Word": "recruit",
+      "Meaning": "işe almak, toplamak, askere almak",
+      "Sentence": "Secondly, the coach driver was quite a rude person and, as far as I am concerned, it would be a good idea to pay more attention when recruiting your staff."
+    },
+    {
+      "Word": "ruler",
+      "Meaning": "cetvel, hükümdar, yönetici",
+      "Sentence": "He was the ruler of the country for over 20 years."
+    },
+    {
+      "Word": "sack",
+      "Meaning": "çuval, torba",
+      "Sentence": "The worst thing was with rubbish which wasn't collected. People in estates, special groups, used big bags and sacks to gather it."
+    },
+    {
+      "Word": "shabby",
+      "Meaning": "yıpranmış, sefil",
+      "Sentence": "With neither lift nor room service provided our guests had to stay in dirty and shabby rooms on the 4th floor."
+    },
+    {
+      "Word": "shyness",
+      "Meaning": "utangaçlık",
+      "Sentence": "Some of them were encouraged by their work-fellows to overcome their initial shyness."
+    },
+    {
+      "Word": "slot",
+      "Meaning": "yuva, delik, yarık, oluk",
+      "Sentence": "Instead of inserting a coin, you put your card in a slot and then dial the number.\n."
+    },
+    {
+      "Word": "terrific ",
+      "Meaning": "müthiş",
+      "Sentence": "Furthermore, the rubbish collection was a terrific problem, the smell was awful."
+    },
+    {
+      "Word": "therapeutic",
+      "Meaning": "tedavi edici",
+      "Sentence": "Some people consider shopping therapeutic, much like a hobby."
+    },
+    {
+      "Word": "token",
+      "Meaning": "jeton, ",
+      "Sentence": "Nevertheless, you can also prepare a small present as a token of your friendship or affection."
+    },
+    {
+      "Word": "unaffordable",
+      "Meaning": "pahalı",
+      "Sentence": "£5 per session is obviously unaffordable for students"
+    },
+    {
+      "Word": "unattractive",
+      "Meaning": "çekici olmayan, çirkin",
+      "Sentence": "In our opinion, despite the friendly atmosphere of our club's meetings we find them very unattractive and rather dull."
+    },
+    {
+      "Word": "unwillingness",
+      "Meaning": "isteksizlik",
+      "Sentence": "Both sides have shown unwillingness to negotiate."
+    },
+    {
+      "Word": "upwards",
+      "Meaning": "yukarı, yukarıya",
+      "Sentence": "CIn evaporation the water drops from seas are carried upwards and form clouds."
+    },
+    {
+      "Word": "utmost",
+      "Meaning": "son derece",
+      "Sentence": "He explained the usefulness of having a wi-fi connection."
+    },
+    {
+      "Word": "vain",
+      "Meaning": "boşuna, nafile",
+      "Sentence": "We looked in vain for the guide through three London parks."
+    },
+    {
+      "Word": "vest",
+      "Meaning": "gömlek, iç yelek",
+      "Sentence": "You'll need a vest in this weather."
+    },
+    {
+      "Word": "wisely ",
+      "Meaning": "akıllıca",
+      "Sentence": "She wisely advised me to wait."
+    },
+    {
+      "Word": "worthy",
+      "Meaning": "layık, değerli, değer",
+      "Sentence": "The performers are all neatly dressed and on the whole, they have all made a worthy effort."
+    },
+    {
+      "Word": "youngster",
+      "Meaning": "genç, çocuk, delikenklı",
+      "Sentence": "He talked to the youngsters about the dangers of drugs."
+    }
+  ]
+
+
+
+
+
+}

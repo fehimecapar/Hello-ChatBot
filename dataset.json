@@ -1,0 +1,68 @@
+{"intents": [
+        {"tag": "selamlama",
+         "patterns": ["Merhabalar", "Selamlar", "Nasılsın", "Naber", "Selam","Günaydın"],
+         "responses": ["Hello :)", "I'm glad to see you!", "Hi there!", "How can I help you?", "Hello, how are you?"],
+         "context_set": ""
+        },
+        {
+          "tag": "ayrılma",
+          "patterns": [ "Bye", "İyi akşamlar", "Görüşürüz", "Tekrar görüşmek üzere", "Ben gidiyorum", "Bay bay" ],
+          "responses": [ "See you later :(", "Have a nice day! Don't forget the study your vocabularies! :P", "Bye, come back again!" ],
+          "context_set": ""
+        },
+        {
+          "tag": "tesekkur",
+          "patterns": [ "Teşekkürler", "Teşekkür ederim", "Yardımcı oldu", "Harika" ],
+          "responses": [ "I'm glad to help!", "Any time :)", "I'm here to help you.", "You're welcome!" ],
+          "context_set": ""
+        },
+        {
+          "tag": "şikayet",
+          "patterns": [ "Bu hiç yardımcı olmadı", "Bana hiç yardımcı olmadın", "Yardım konusunda çok kötüsün" ],
+          "responses": ["I'm sorry that I couldn't help you.", "I will try my best to help you better.", ""]
+        },
+        {
+          "tag": "hakkında",
+          "patterns": [ "Sen kimsin?", "Ne iş yapıyorsun", "Adın ne", "Robot musun" ],
+          "responses": [ "I'm not a robot :)", "I'm here to help you only.", "My job is to teach you how to improve your English.", "Please don't call me robot :(" ],
+          "context_set": ""
+        },
+        {
+          "tag": "yardım",
+          "patterns": [ "Bana yardımcı olabilir misin?", "Bana nasıl yardımcı olabilirsin?", "Neler biliyorsun" ],
+          "responses": [ "I can help you with learning English.", "I'm here to teach you vocabulary.", "What you'd like to learn about English?" ],
+          "context_set": ""
+        },
+        {
+          "tag": "cevapsız",
+          "patterns": [],
+          "responses": ["Sorry, I didn't understand.", "Can you please give me more info?", "I'm not sure I understand."],
+          "context_set": ""
+        },
+        {
+          "tag": "mutluluk",
+          "patterns": ["çok mutluyum","bugün harika","muhteşem hissediyorum","mükemmel bir gün"],
+          "responses": ["good to hear", "that's great", "excellent"],
+          "context_set": ""
+        },
+        {
+          "tag": "kötü",
+          "patterns": ["her şey kötü","çok mutsuzum","ödevlerim yetişmiyor"],
+          "responses": ["please don't be silly", "don't think like that", "this is a very bad thing"],
+          "context_set": ""
+        },
+        {
+          "tag": "yiyecek",
+          "patterns": ["hangi yiyecegin tadını merak ediyorsun","insan olsan ne yemek istredin"],
+          "responses": ["chocolate", "If I were a human, I would like to eat chocolate", "i wonder about the taste of chocolate"],
+          "context_set": ""
+        },
+        {
+          "tag": "içecek",
+          "patterns": ["hangi içecek olmak isterdin","bir şey içer misin"],
+          "responses": ["i would like to be an ayran", "i am a robot, i can't drink anything"],
+          "context_set": ""
+        }
+
+]
+}
